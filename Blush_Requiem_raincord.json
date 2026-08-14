@@ -1,6 +1,6 @@
 {
   "name": "Blush Requiem",
-  "description": "Deep plum-black base with soft pastel pink accents and white highlights",
+  "description": "Columbina Theme",
   "authors": [
     { "name": "Sinne" }
   ],
@@ -59,10 +59,10 @@
     "BRAND_600": "#C96F92",
     "BRAND_700": "#B85A7E",
     "RED_500": "#7A2C4C"
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/sinnesempai/Testing-/main/IMG_parororo_20260813_190703_4e1.jpg",
+    "alpha": 0.25,
+    "blur": 0
   }
-}
-"background": {
-  "url": "https://github.com/sinnesempai/Testing-/blob/main/IMG_parororo_20260813_190703_4e1.jpg",
-  "alpha": 0.25,
-  "blur": 0
 }
