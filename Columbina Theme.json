@@ -31,7 +31,7 @@
     "BACKGROUND_MODIFIER_SELECTED": ["#ffe0ea"],
     "BACKGROUND_MODIFIER_ACCENT": ["#ffe0ea"],
     "SCROLLBAR_THIN_THUMB": ["#ffe0ea"],
-    "SCROLLBAR_THIN_TRACK": ["transparent"],
+    "SCROLLBAR_THIN_TRACK": ["#ffe0ea"],
     "SCROLLBAR_AUTO_THUMB": ["#ffe0ea"],
     "SCROLLBAR_AUTO_TRACK": ["#ffe0ea"],
     "CHANNELTEXTAREA_BACKGROUND": ["#ffe0ea"],
