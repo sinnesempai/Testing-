@@ -2,7 +2,7 @@
   "name": "Blush Requiem",
   "description": "Deep plum-black base with soft pastel pink accents and white highlights",
   "authors": [
-    { "name": "you" }
+    { "name": "Sinne" }
   ],
   "spec": 2,
   "semanticColors": {
@@ -60,4 +60,9 @@
     "BRAND_700": "#B85A7E",
     "RED_500": "#7A2C4C"
   }
+}
+"background": {
+  "url": "https://github.com/sinnesempai/Testing-/blob/main/IMG_parororo_20260813_190703_4e1.jpg",
+  "alpha": 0.25,
+  "blur": 0
 }
