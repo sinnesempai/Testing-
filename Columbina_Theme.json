@@ -35,7 +35,7 @@
     "SCROLLBAR_AUTO_THUMB": ["#ffc5d9"],
     "SCROLLBAR_AUTO_TRACK": ["#ffc5d9"],
     "CHANNELTEXTAREA_BACKGROUND": ["#ffc5d9"],
-    "CHANNELS_DEFAULT": [""],
+    "CHANNELS_DEFAULT": ["#c6d1e2"],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#ffc5d9"],
     "CHANNEL_ICON": ["#ffc5d9"],
     "KEYBOARD": ["#ffc5d9"],
