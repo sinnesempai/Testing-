@@ -1,10 +1,9 @@
 {
-    "name": "Pyon",
-    "description": "Theme for Pyoncord/Bunny (real and true)",
+    "name": "Columbina",
+    "description": "Made by Sinne, just a custom theme bc i love Columbina <3",
     "authors": [
         {
-            "name": "LampDelivery",
-            "id": "650805815623680030"
+            "name": "Sinne"
         }
     ],
     "semanticColors": {
@@ -21,13 +20,13 @@
             "#c6d1e2"
         ],
         "MOBILE_TEXT_HEADING_PRIMARY": [
-            "#e0deff"
+            "#ebeff5"
         ],
         "INTERACTIVE_NORMAL": [
-            "#dc2f7e"
+            "#c6d1e2"
         ],
         "INTERACTIVE_HOVER": [
-            "#403e6f"
+            "#dc2f7e"
         ],
         "INTERACTIVE_ACTIVE": [
             "#ebeff5"
@@ -36,40 +35,40 @@
             "#aa4d76"
         ],
         "BACKGROUND_PRIMARY": [
-            "#212034"
+            "#1f2132"
         ],
         "BACKGROUND_SECONDARY": [
-            "#2b2a3b"
+            "#272a3d"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#26253b"
+            "#30334a"
         ],
         "BACKGROUND_SURFACE_HIGH": [
-            "#26253b"
+            "#30334a"
         ],
         "CARD_BACKGROUND_DEFAULT": [
-            "#26253b"
+            "#30334a"
         ],
         "BACKGROUND_TERTIARY": [
-            "#26253b"
+            "#272a3d"
         ],
         "BACKGROUND_ACCENT": [
-            "#2d2c48"
+            "#30334a"
         ],
         "BACKGROUND_FLOATING": [
-            "#2d2c48"
+            "#272a3d"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#0f0e18"
+            "#1f2132"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#0f0e18"
+            "#272a3d"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#2d2c48"
+            "#30334a"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#26253b"
+            "#ffffff0d"
         ],
         "BACKGROUND_MENTIONED": [
             "#dc2f7e33"
@@ -87,22 +86,22 @@
             "#dc2f7e33"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#2d2c48"
+            "#aa4d76"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#26273b"
+            "#aa4d76"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#6b68a3"
+            "#aa4d76"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#6b68a3"
+            "#1f2132"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#26273b"
+            "#272a3d"
         ],
         "CHANNELS_DEFAULT": [
             "#c6d1e2"
@@ -111,82 +110,106 @@
             "#c6d1e2"
         ],
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-            "#c6d1e2"
+            "#ebeff5"
         ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
-            "#1f2132"
+            "#272a3d"
         ],
         "INPUT_BACKGROUND": [
-            "#1f2132"
+            "#272a3d"
         ],
         "INPUT_BACKGROUND_DEFAULT": [
-            "#1f2132"
+            "#272a3d"
         ],
         "INPUT_PLACEHOLDER_TEXT": [
-            "#c6d1e2"
+            "#aa4d76"
         ],
         "TEXT_LINK": [
-            "#6b68a3"
+            "#dc2f7e"
         ],
         "TEXT_DANGER": [
-            "#6b68a3"
+            "#dc2f7e"
         ],
         "KEYBOARD": [
-            "#161621"
+            "#1f2132"
         ],
         "BG_BACKDROP": [
             "#000000B2"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#26273b"
+            "#30334a"
         ],
         "CHANNEL_ICON": [
             "#c6d1e2"
         ],
         "CHAT_BACKGROUND": [
-            "#161621"
-        ],
-        "CARD_PRIMARY_BG": [
-            "#2d2c48"
-        ],
-        "EMBED_BACKGROUND": [
             "#1f2132"
         ],
+        "CARD_PRIMARY_BG": [
+            "#30334a"
+        ],
+        "EMBED_BACKGROUND": [
+            "#272a3d"
+        ],
         "THREAD_CHANNEL_SPINE": [
+            "#dc2f7e"
+        ],
+        "STATUS_POSITIVE": [
+            "#c6d1e2"
+        ],
+        "STATUS_DND": [
+            "#dc2f7e"
+        ],
+        "STATUS_DANGER": [
             "#dc2f7e"
         ]
     },
     "rawColors": {
-        "PRIMARY_500": "#9E8376",
-        "PRIMARY_100": "#e0deff",
-        "PRIMARY_200": "#d0cfef",
-        "PRIMARY_300": "#5e5b8e",
-        "PRIMARY_360": "#8884cc",
-        "PRIMARY_400": "#8884cc",
-        "PRIMARY_600": "#161621",
-        "PRIMARY_630": "#161621",
-        "PRIMARY_660": "#161621",
-        "PRIMARY_700": "#161621",
-        "PRIMARY_800": "#161621",
+        "PRIMARY_100": "#ebeff5",
+        "PRIMARY_200": "#c6d1e2",
+        "PRIMARY_300": "#aa4d76",
+        "PRIMARY_360": "#dc2f7e",
+        "PRIMARY_400": "#dc2f7e",
+        "PRIMARY_500": "#dc2f7e",
+        "PRIMARY_600": "#1f2132",
+        "PRIMARY_630": "#272a3d",
+        "PRIMARY_645": "#30334a",
+        "PRIMARY_660": "#1f2132",
+        "PRIMARY_700": "#1f2132",
+        "PRIMARY_730": "#272a3d",
+        "PRIMARY_800": "#30334a",
         "BLACK_500": "#000000B2",
-        "BRAND_260": "#5e5b8e",
-        "BRAND_360": "#a5a0f1",
-        "BRAND_500": "#8884cc",
-        "BRAND_560": "#8884cc",
-        "YELLOW_300": "#a5a0f1",
-        "GREEN_600": "#e0deff",
-        "RED_400": "#938edc",
-        "WHITE_500": "#e0deff",
-        "GREEN_360": "#605d91",
-        "PLUM_20": "#212034",
-        "PLUM_17": "#26273b",
-        "PLUM_13": "#26273b",
-        "PLUM_16": "#2d2c48",
-        "PLUM_23": "#26253b"
+        "BRAND_260": "#aa4d76",
+        "BRAND_360": "#dc2f7e",
+        "BRAND_500": "#dc2f7e",
+        "BRAND_560": "#aa4d76",
+        "YELLOW_300": "#c6d1e2",
+        "GREEN_600": "#c6d1e2",
+        "RED_400": "#dc2f7e",
+        "WHITE_500": "#ebeff5",
+        "GREEN_360": "#aa4d76",
+        "PLUM_20": "#1f2132",
+        "PLUM_17": "#272a3d",
+        "PLUM_13": "#272a3d",
+        "PLUM_16": "#30334a",
+        "PLUM_23": "#30334a"
     },
     "background": {
         "blur": 0.1,
-        "url": " 
+        "url": "https://raw.githubusercontent.com/sinnesempai/Testing-/refs/heads/main/IMG_parororo_20260813_190703_4e1.jpg",
+        "alpha": 0.25
+    },
+    "plus": {
+        "version": "0",
+        "mentionLineColor": "#dc2f7e",
+        "customOverlays": true,
+        "icons": {
+            "StatusOnline": "#c6d1e2",
+            "StatusIdle": "#aa4d76",
+            "StatusDND": "#dc2f7e",
+            "StatusOffline": "#aa4d76",
+            "StatusStreaming": "#dc2f7e"
+        }
     },
     "spec": 2
 }
