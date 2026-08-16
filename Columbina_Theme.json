@@ -186,11 +186,7 @@
     },
     "background": {
         "blur": 0.1,
-        "url": ""
-    },
-    "plus": {
-        "version": "0",
-        "iconpack": "rosiecord-plumpy"
+        "url": " 
     },
     "spec": 2
 }
