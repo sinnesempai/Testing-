@@ -101,25 +101,25 @@
             "#1f2132"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#272a3d"
+            "#272331"
         ],
         "CHANNELS_DEFAULT": [
-            "#c6d1e2"
+            "#aa4d76"
         ],
         "REDESIGN_CHANNEL_NAME_TEXT": [
-            "#c6d1e2"
+            "#aa4d76"
         ],
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-            "#ebeff5"
+            "#c6d1e2"
         ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
-            "#272a3d"
+            "#272331"
         ],
         "INPUT_BACKGROUND": [
-            "#272a3d"
+            "#272331"
         ],
         "INPUT_BACKGROUND_DEFAULT": [
-            "#272a3d"
+            "#272331"
         ],
         "INPUT_PLACEHOLDER_TEXT": [
             "#aa4d76"
@@ -140,7 +140,7 @@
             "#30334a"
         ],
         "CHANNEL_ICON": [
-            "#c6d1e2"
+            "#dc2f7e"
         ],
         "CHAT_BACKGROUND": [
             "#1f2132"
