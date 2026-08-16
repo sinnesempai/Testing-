@@ -6,7 +6,7 @@
   ],
   "spec": 2,
   "semanticColors": {
-    "HEADER_PRIMARY": "#ebeff5"],
+    "HEADER_PRIMARY": ["#ebeff5"],
     "HEADER_SECONDARY": ["#c6d1e2"],
     "TEXT_NORMAL": ["#ebeff5"],
     "TEXT_MUTED": ["#c6d1e2"],
