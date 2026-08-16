@@ -8,7 +8,7 @@
   "semanticColors": {
     "HEADER_PRIMARY": ["#ffc5d9"],
     "HEADER_SECONDARY": ["#ffc5d9"],
-    "TEXT_NORMAL": ["#ffc5d9"],
+    "TEXT_NORMAL": ["#dc2f7e"],
     "TEXT_MUTED": ["#ffc5d9"],
     "TEXT_LINK": ["#ffe0ea"],
     "TEXT_DANGER": ["#ffc5d9"],
