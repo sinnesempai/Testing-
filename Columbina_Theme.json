@@ -35,40 +35,40 @@
             "#aa4d76"
         ],
         "BACKGROUND_PRIMARY": [
-            "#1f2132"
+            "#211521"
         ],
         "BACKGROUND_SECONDARY": [
-            "#272a3d"
+            "#2b1925"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#30334a"
+            "#351c2b"
         ],
         "BACKGROUND_SURFACE_HIGH": [
-            "#30334a"
+            "#351c2b"
         ],
         "CARD_BACKGROUND_DEFAULT": [
-            "#30334a"
+            "#351c2b"
         ],
         "BACKGROUND_TERTIARY": [
-            "#272a3d"
+            "#2b1925"
         ],
         "BACKGROUND_ACCENT": [
             "#aa4d76"
         ],
         "BACKGROUND_FLOATING": [
-            "#272a3d"
+            "#351c2b"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#1f2132"
+            "#211521"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#272a3d"
+            "#2b1925"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#30334a"
+            "#351c2b"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#ffffff0d"
+            "#dc2f7e12"
         ],
         "BACKGROUND_MENTIONED": [
             "#dc2f7e33"
@@ -77,7 +77,7 @@
             "#dc2f7e55"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#ffffff0d"
+            "#dc2f7e18"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#dc2f7e33"
@@ -98,28 +98,28 @@
             "#aa4d76"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#1f2132"
+            "#211521"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#272331"
+            "#351c2b"
         ],
         "CHANNELS_DEFAULT": [
-            "#aa4d76"
+            "#dc2f7e"
         ],
         "REDESIGN_CHANNEL_NAME_TEXT": [
-            "#aa4d76"
+            "#dc2f7e"
         ],
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-            "#c6d1e2"
+            "#aa4d76"
         ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
-            "#272331"
+            "#351c2b"
         ],
         "INPUT_BACKGROUND": [
-            "#272331"
+            "#351c2b"
         ],
         "INPUT_BACKGROUND_DEFAULT": [
-            "#272331"
+            "#351c2b"
         ],
         "INPUT_PLACEHOLDER_TEXT": [
             "#aa4d76"
@@ -131,25 +131,25 @@
             "#dc2f7e"
         ],
         "KEYBOARD": [
-            "#1f2132"
+            "#211521"
         ],
         "BG_BACKDROP": [
             "#000000B2"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#30334a"
+            "#351c2b"
         ],
         "CHANNEL_ICON": [
             "#dc2f7e"
         ],
         "CHAT_BACKGROUND": [
-            "#1f2132"
+            "#211521"
         ],
         "CARD_PRIMARY_BG": [
-            "#30334a"
+            "#351c2b"
         ],
         "EMBED_BACKGROUND": [
-            "#272a3d"
+            "#2b1925"
         ],
         "THREAD_CHANNEL_SPINE": [
             "#dc2f7e"
@@ -171,13 +171,13 @@
         "PRIMARY_360": "#dc2f7e",
         "PRIMARY_400": "#dc2f7e",
         "PRIMARY_500": "#dc2f7e",
-        "PRIMARY_600": "#1f2132",
-        "PRIMARY_630": "#272a3d",
-        "PRIMARY_645": "#30334a",
-        "PRIMARY_660": "#1f2132",
-        "PRIMARY_700": "#1f2132",
-        "PRIMARY_730": "#272a3d",
-        "PRIMARY_800": "#30334a",
+        "PRIMARY_600": "#211521",
+        "PRIMARY_630": "#2b1925",
+        "PRIMARY_645": "#351c2b",
+        "PRIMARY_660": "#211521",
+        "PRIMARY_700": "#211521",
+        "PRIMARY_730": "#2b1925",
+        "PRIMARY_800": "#351c2b",
         "BLACK_500": "#000000B2",
         "BRAND_260": "#aa4d76",
         "BRAND_360": "#dc2f7e",
@@ -188,11 +188,11 @@
         "RED_400": "#dc2f7e",
         "WHITE_500": "#ebeff5",
         "GREEN_360": "#aa4d76",
-        "PLUM_20": "#1f2132",
-        "PLUM_17": "#272a3d",
-        "PLUM_13": "#272a3d",
-        "PLUM_16": "#30334a",
-        "PLUM_23": "#30334a"
+        "PLUM_20": "#211521",
+        "PLUM_17": "#2b1925",
+        "PLUM_13": "#2b1925",
+        "PLUM_16": "#351c2b",
+        "PLUM_23": "#351c2b"
     },
     "background": {
         "blur": 0.1,
