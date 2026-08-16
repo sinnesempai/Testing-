@@ -1,4 +1,3 @@
-
 {
     "name": "Columbina",
     "description": "Made by Sinne, just a custom theme bc i love Columbina <3",
@@ -24,10 +23,10 @@
             "#ebeff5"
         ],
         "INTERACTIVE_NORMAL": [
-            "#dc2f7e"
+            "#c6d1e2"
         ],
         "INTERACTIVE_HOVER": [
-            "#aa4d76"
+            "#dc2f7e"
         ],
         "INTERACTIVE_ACTIVE": [
             "#ebeff5"
@@ -39,7 +38,7 @@
             "#1f2132"
         ],
         "BACKGROUND_SECONDARY": [
-            "#aa4d76"
+            "#1f2132"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#aa4d76"
@@ -54,43 +53,43 @@
             "#aa4d76"
         ],
         "BACKGROUND_ACCENT": [
-            "#dc2f7e"
+            "#aa4d76"
         ],
         "BACKGROUND_FLOATING": [
-            "#aa4d76"
+            "#1f2132"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#1f2132"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#aa4d76"
+            "#1f2132"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#aa4d76"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#dc2f7e33"
+            "#aa4d7633"
         ],
         "BACKGROUND_MENTIONED": [
-            "#dc2f7e33"
+            "#aa4d7633"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#dc2f7e55"
+            "#aa4d7655"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#dc2f7e33"
+            "#aa4d7633"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#dc2f7e55"
+            "#aa4d7655"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#dc2f7e55"
+            "#aa4d7655"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#dc2f7e"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#dc2f7e"
+            "#aa4d76"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
@@ -105,10 +104,10 @@
             "#aa4d76"
         ],
         "CHANNELS_DEFAULT": [
-            "#dc2f7e"
+            "#c6d1e2"
         ],
         "REDESIGN_CHANNEL_NAME_TEXT": [
-            "#dc2f7e"
+            "#c6d1e2"
         ],
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
             "#c6d1e2"
@@ -141,7 +140,7 @@
             "#aa4d76"
         ],
         "CHANNEL_ICON": [
-            "#dc2f7e"
+            "#c6d1e2"
         ],
         "CHAT_BACKGROUND": [
             "#1f2132"
@@ -199,18 +198,6 @@
         "blur": 0.1,
         "url": "https://raw.githubusercontent.com/sinnesempai/Testing-/refs/heads/main/IMG_parororo_20260813_190703_4e1.jpg",
         "alpha": 0.25
-    },
-    "plus": {
-        "version": "0",
-        "mentionLineColor": "#dc2f7e",
-        "customOverlays": true,
-        "icons": {
-            "StatusOnline": "#c6d1e2",
-            "StatusIdle": "#aa4d76",
-            "StatusDND": "#dc2f7e",
-            "StatusOffline": "#aa4d76",
-            "StatusStreaming": "#dc2f7e"
-        }
     },
     "spec": 2
 }
